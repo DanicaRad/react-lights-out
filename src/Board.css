@@ -1,0 +1,5 @@
+.Board {
+  margin: 40px auto;
+  border: 5px solid black;
+  border-collapse: collapse;
+}
